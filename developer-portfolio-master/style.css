@@ -41,7 +41,10 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
-h2{
+
+footer p{
+    text-align: center;
+}h2{
     font-size: 40px;
 }
 .experience-area{
@@ -64,7 +67,4 @@ h2{
     border-left: 7px solid;
     border-image: linear-gradient(blue 100%, cyan 100%);
     border-image-slice: 1;
-}
-footer p{
-    text-align: center;
 }
